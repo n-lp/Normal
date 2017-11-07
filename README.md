@@ -9,4 +9,4 @@ A simple cartoon animation that goes beyond it's aesthetics diving into touching
 ## Contact Information
 Mail: nuria.lp@hotmail.com
 
-Instagram: [nurialp] (https://www.instagram.com/nurialp/)
+Instagram: [nurialp](https://www.instagram.com/nurialp/)
