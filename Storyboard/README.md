@@ -2,7 +2,7 @@
 
 nº | Shot Type | Action Description | Audio Description | Image
 ------------ | ------------- | ------------ | ------------- | -------------
-**Scene 1**| EXT. SOMERFIELD NEIGHBORHOOD - AFTERNOON | | | ![StoryBoard1](/storyboard1.png)
+**Scene 1**| EXT. SOMERFIELD NEIGHBORHOOD - AFTERNOON | | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard1.png)
 1.1 | PG, High angle, PAN LEFT | General view of the street, all houses are decorated but one. |
  | | |
 **Scene 2** | INT. STELLA'S BEDROOM - AFTERNOON | |
