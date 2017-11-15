@@ -1,3 +1,5 @@
+# Script
+
 1. EXT. SOMERFIELD NEIGHBORHOOD - AFTERNOON
 
 General view of the street, all houses are decorated but one.
