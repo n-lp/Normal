@@ -1,4 +1,5 @@
 # Normal 
+![PixelCorn](/WikiResources/PixelCornWhite.png)
 
 ## Description
 Normal is a 2D animation project that explore the concept of normality. It is a few minutes short, that follows two young girl's lifes everyday challanges and adventures.
