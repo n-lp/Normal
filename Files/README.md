@@ -1,4 +1,4 @@
-####Miercoles 15 de Novimbre
+#### Miercoles 15 de Novimbre
 
 - [ ] Revisar los concepts de los personajes
 - [ ] Cambiar la historia
