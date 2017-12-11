@@ -1,4 +1,4 @@
-#### Miercoles 15 de Novimbre
+#### Wednesday 15th November - PRE-ALPHA Presentation
 
 - [ ] Review the character concepts
 - [ ] Backgrounds art missing
