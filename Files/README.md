@@ -1,7 +1,9 @@
 #### Miercoles 15 de Novimbre
 
-- [ ] Revisar los concepts de los personajes
-- [ ] Cambiar la historia
-- [ ] Gestionar los pesos de protagonismo de los personajes de manera diferente (la niña menos importante)
-- [ ] Los tiempos de la animatica se tienen que ajustar
-- [ ] Pasar los cambios al guión, story, animatica
+- [ ] Review the character concepts
+- [ ] Backgrounds art missing
+- [ ] Change the story slightly so it is easier to understand
+- [ ] The weight of protagonism of the characters has to be managed (the girl should be less important)
+- [ ] The animatic timing is off and must be revised
+- [ ] Adapt script, storyboard and animatic to fix changes mentioned
+- [ ] Too many closeups, it need more dynamism
