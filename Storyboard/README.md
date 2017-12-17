@@ -26,10 +26,10 @@ nº | Shot Type | Action Description | Audio Description | Image
  | | |
 **Scene 7** | INT. HALL, STELLA'S HOUSE - EVENING | |
 7.1 | PE | Stella opens the door to go out. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard16.png)
-7.2 | PP | She paralyzes for a second. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard17.png)
+7.2 | PE | She paralyzes for a second. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard17.png)
 7.3 | PP | Her mother expression changes to a worried one. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard18.png)
 7.4 | PP | Stella suddenly smiles as wide as she possibly can. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard19.png)
-7.5 | PP | Her mother’s expression relaxes. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard20.png)
+7.5 | PE | Her mother’s expression relaxes. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard20.png)
 7.6 | PG | Kids walk dressed up as vampires, demons, witches, and ghosts. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard21.png)
  | | |
 **Scene 8** | EXT. NEIGHTBOUR’S DOOR - EVENING | |
