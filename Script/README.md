@@ -36,33 +36,20 @@ Stella is waiting at another door, other kids are waiting too. A GIRL(12) keeps 
 
 Stella is in her bed, sleeping, one leg out of the covers. The floor is covered in candy and paper wrappings.
 
-10. INT. GIRL'S BEDROOM - NIGHT
+10. EXT. STREET - DAY
 
-The girl is sleeping, completely covered. Candy is all over the place.
+You see a school bus on the road.
 
-11. EXT. STREET - DAY
+11. EXT. SKY TO STREET - DAY
 
-The girl is on a school bus, looking out the window.
+Stella is flying very fast on her broom. She passes in front of the school bus in a rush, turns and waves with an apollogetic face.
 
-12. EXT. SKY - DAY
+12. INT. STELLA'S CLASS - DAY
 
-Stella is riding her broom, there are magical floating signs that point the way to school.
-
-13. INT. GIRL'S CLASS - DAY
-
-The girl is seated, at her table, she has a bored look on her face.
-
-14. INT. STELLA'S CLASS - DAY
-
-Stella is stirring something in her cauldron, while she reads a book that's open on her table.
-
-15. INT. BOTH CLASSES SIMULTANEOUSLY - DAY
-
-Stella and the girl continue in their classes.
+Stella is stirring something in her cauldron, while she reads a book that's open on her table. Stella continues in her class.
 	
-STELLA AND THE GIRL
+STELLA
 
 (sighting)
 
 Back to normal.
-
