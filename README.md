@@ -1,4 +1,4 @@
-![PixelCorn](/WikiResources/PixelCornWhite.png)
+![PixelCorn](/WikiResources/NormalBanner.png)
 
 # Normal 
 
