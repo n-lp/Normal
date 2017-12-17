@@ -41,22 +41,13 @@ nº | Shot Type | Action Description | Audio Description | Image
 **Scene 9** | INT. STELLA'S BEDROOM - NIGHT | |
 9.1 | PG | Stella is in her bed, sleeping, one leg out of the covers. The floor is covered in candy and paper wrappings. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard27.png)
  | | |
-**Scene 10** | INT. GIRL'S BEDROOM - NIGHT | |
-10.1 | PG | The girl is sleeping, completely covered. Candy is all over the place. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard28.png)
+**Scene 10** | EXT. STREET - DAY | |
+10.1 | PG | You see a school bus on the road. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard28.png)
  | | |
-**Scene 11** | EXT. STREET - DAY | |
-11.1 | PG | The girl is on a school bus. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard29.png)
-11.2 | PP | Looking out the window. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard30.png)
+**Scene 11** | EXT. SKY TO STREET - DAY | |
+11.1 | PG - TILT DOWN (following Stella) | Stella is flying very fast on her broom. She passes in front of the school bus in a rush, turns and waves with an apollogetic face. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard29.png)
  | | |
-**Scene 12**| EXT. SKY - DAY | |
-12.1 | PP | Stella looks bored. | | 
-12.2 | PG | Stella is riding her broom, there are magical floating signs that point the way to school. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard31.png)
+**Scene 12**| INT. STELLA'S CLASS - DAY | |
+12.1 | PM | Stella is stirring something in her cauldron, while she reads a book that's open on her table. | | 
+12.2 | PM | Stella continues in her class. | STELLA (sighting) Back to normal. | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard31.png)
  | | |
-**Scene 13** | INT. GIRL'S CLASS - DAY| |
-13.1 | PM | The girl is seated, at her table, she has a bored look on her face. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard30.png)
- | | |
-**Scene 14** | INT. STELLA'S CLASS - DAY | |
-14.1 | PM | Stella is stirring something in her cauldron, while she reads a book that's open on her table.| | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard32.png)
- | | |
-**Scene 15** | INT. BOTH CLASSES SIMULTANEOUSLY - DAY | |
-15.1 | PM | Stella and the girl continue in their classes. | "STELLA AND THE GIRL (sighting, simultaneously) Back to normal..." | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard33.png)
