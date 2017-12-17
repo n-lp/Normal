@@ -42,7 +42,7 @@ You see a school bus on the road.
 
 11. EXT. SKY TO STREET - DAY
 
-Stella is flying very fast on her broom. She passes in front of the school bus in a rush, turns and waves with an apollogetic face.
+Stella is flying very fast on her broom. She passes in front of the school bus in a rush, turns and waves with an apologetic face.
 
 12. INT. STELLA'S CLASS - DAY
 
