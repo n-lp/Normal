@@ -33,21 +33,21 @@ nº | Shot Type | Action Description | Audio Description | Image
 7.6 | PG | Kids walk dressed up as vampires, demons, witches, and ghosts. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/7.6.png)
  | | |
 **Scene 8** | EXT. NEIGHTBOUR’S DOOR - EVENING | |
-8.1 | PM | Stella is waiting at another door, other kids are waiting too. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard22.png)
-8.2 | PP, conversation | A GIRL(10) keeps staring at Stella. Stella smiles. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard23.png)
-8.3 | PE | A lady gives out candy, the kids leave. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard25.png)
-8.4 | PP | The girl keeps staring at Stella. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard26.png)
+8.1 | PM | Stella is waiting at another door, other kids are waiting too. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/8.1.png)
+8.2 | PP, conversation | A GIRL(10) keeps staring at Stella. Stella smiles. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/8.2.png)
+8.3 | PE | A lady gives out candy, the kids leave. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/8.3.png)
+8.4 | PP | The girl keeps staring at Stella. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/8.4.png)
  | | |
 **Scene 9** | INT. STELLA'S BEDROOM - NIGHT | |
-9.1 | PG | Stella is in her bed, sleeping, one leg out of the covers. The floor is covered in candy and paper wrappings. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard27.png)
+9.1 | PG | Stella is in her bed, sleeping, one leg out of the covers. The floor is covered in candy and paper wrappings. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/9.1.png)
  | | |
 **Scene 10** | EXT. STREET - DAY | |
-10.1 | PG | You see a school bus on the road. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard28.png)
+10.1 | PG | You see a school bus on the road. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/10.1.png)
  | | |
 **Scene 11** | EXT. SKY TO STREET - DAY | |
-11.1 | PG - TILT DOWN (following Stella) | Stella is flying very fast on her broom. She passes in front of the school bus in a rush, turns and waves with an apologetic face. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard29.png)
+11.1 | PG - TILT DOWN (following Stella) | Stella is flying very fast on her broom. She passes in front of the school bus in a rush, turns and waves with an apologetic face. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/11.1.png)
  | | |
 **Scene 12**| INT. STELLA'S CLASS - DAY | |
-12.1 | PM | Stella is stirring something in her cauldron, while she reads a book that's open on her table. | | 
-12.2 | PM | Stella continues in her class. | STELLA (sighting) Back to normal. | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard31.png)
+12.1 | PM | Stella is stirring something in her cauldron, while she reads a book that's open on her table. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/12.1.png)
+12.2 | PM | Stella continues in her class. | STELLA (sighting) Back to normal. | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/12.2.png)
  | | |
