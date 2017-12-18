@@ -45,7 +45,7 @@ nº | Shot Type | Action Description | Audio Description | Image
 10.1 | PG | You see a school bus on the road. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard28.png)
  | | |
 **Scene 11** | EXT. SKY TO STREET - DAY | |
-11.1 | PG - TILT DOWN (following Stella) | Stella is flying very fast on her broom. She passes in front of the school bus in a rush, turns and waves with an apollogetic face. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard29.png)
+11.1 | PG - TILT DOWN (following Stella) | Stella is flying very fast on her broom. She passes in front of the school bus in a rush, turns and waves with an apologetic face. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/storyboard29.png)
  | | |
 **Scene 12**| INT. STELLA'S CLASS - DAY | |
 12.1 | PM | Stella is stirring something in her cauldron, while she reads a book that's open on her table. | | 
