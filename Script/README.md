@@ -47,9 +47,3 @@ Stella is flying very fast on her broom. She passes in front of the school bus i
 12. INT. STELLA'S CLASS - DAY
 
 Stella is stirring something in her cauldron, while she reads a book that's open on her table. Stella continues in her class.
-	
-STELLA
-
-(sighting)
-
-Back to normal.
