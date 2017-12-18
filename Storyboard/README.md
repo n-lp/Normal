@@ -49,5 +49,5 @@ nº | Shot Type | Action Description | Audio Description | Image
  | | |
 **Scene 12**| INT. STELLA'S CLASS - DAY | |
 12.1 | PM | Stella is stirring something in her cauldron, while she reads a book that's open on her table. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/12.1.png)
-12.2 | PM | Stella continues in her class. | STELLA (sighting) Back to normal. | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/12.2.png)
+12.2 | PM | Stella continues in her class. | | ![Story](https://github.com/n-lp/Normal/blob/master/Storyboard/12.2.png)
  | | |
